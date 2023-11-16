@@ -1,0 +1,7 @@
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.AssemblyInfoInputs.cache
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.AssemblyInfo.cs
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.RazorAssemblyInfo.cache
+C:\Users\Admin\retailStore\obj\Debug\net7.0\retailStore.RazorAssemblyInfo.cs
